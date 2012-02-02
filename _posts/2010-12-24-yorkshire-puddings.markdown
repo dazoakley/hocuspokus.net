@@ -1,0 +1,15 @@
+---
+layout: post
+title: Yorkshire Puddings
+permalink: /2010/12/yorkshire-puddings
+tags:
+- food
+---
+
+<img 
+  src="/images/2010/yorkshires.jpg" 
+  alt="Yorkshires!!!" 
+  title="Yorkshires!!!" 
+  class="center border" />
+
+That's the good deed done for today... :)

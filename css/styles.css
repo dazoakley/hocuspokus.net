@@ -1,0 +1,242 @@
+/* @override http://localhost:4000/css/styles.css */
+
+/*	Less Framework 4
+	http://lessframework.com
+	by Joni Korpi
+	License: http://opensource.org/licenses/mit-license.php	*/
+
+/*	Resets
+	------	*/
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em,
+img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr, 
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figure, figcaption, hgroup,
+menu, footer, header, nav, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+article, aside, canvas, figure, figure img, figcaption, hgroup,
+footer, header, nav, section, audio, video {
+  display: block;
+}
+
+a img {
+  border: 0;
+}
+
+/*	Typography presets
+	------------------	*/
+
+body {
+  font: 16px/30px 'Droid Serif', Georgia, serif;
+}
+
+.small, small {
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* Selection colours (easy to forget) */
+
+::selection { background: rgb(255,255,158); }
+::-moz-selection { background: rgb(255,255,158); }
+img::selection { background: transparent; }
+img::-moz-selection { background: transparent; }
+body { -webkit-tap-highlight-color: rgb(255,255,158); }
+
+/* 
+* REORG ME
+*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Signika', 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;
+}
+
+div, p, h2, h3, h4, h5, h6 {
+  margin-top: 12px;
+}
+
+/* Links */
+
+a {
+  color: #96746e;
+}
+
+a:visited {
+  color: #372f0f;
+}
+
+a:hover {
+  color: #9f9a94;
+}
+
+/* Code */
+
+.highlight, code {
+  font: 12px monaco, "bitstream vera sans mono", "andale mono", "lucida console", monospace;
+}
+
+pre {
+  background-color: #eee;
+  text-shadow: none;
+  color: #111;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.highlight {
+  overflow: hidden;
+}
+
+.highlight:hover {
+  overflow: auto;
+}
+
+/* Header */
+
+header {
+  background-color: #372f0f;
+  border-top: 3px solid #7c6e56;
+  border-bottom: 1px solid #96746e;
+}
+
+header a, header a:visited, header a:hover h1 {
+  color: #fff;
+  text-decoration: none;
+}
+
+#navigation {
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+#navigation li {
+  list-style: none;
+  display: inline-block;
+}
+
+#navigation li a {
+  padding: 30px 20px;
+}
+
+#navigation li a:hover {
+  text-decoration: underline;
+  color: #999;
+}
+
+/*		Default Layout: 992px.
+		Gutters: 24px.
+		Outer margins: 48px.
+		Leftover space for scrollbars @1024px: 32px.
+-------------------------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8      9      10
+px      68    160    252    344    436    528    620    712    804    896    */
+
+body {
+  -webkit-text-size-adjust: 100%; /* Stops Mobile Safari from auto-adjusting font-sizes */
+}
+
+#content, #header-inner {
+  width: 896px;
+  padding: 30px 48px;
+  margin: 0 auto;
+}
+
+/*		Tablet Layout: 768px.
+		Gutters: 24px.
+		Outer margins: 28px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+#content, #header-inner {
+  width: 712px;
+  padding: 30px 28px;
+}
+
+}
+
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+@media only screen and (max-width: 767px) {
+
+#content, #header-inner {
+  width: 252px;
+  padding: 48px 34px 60px;
+}
+
+}
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+#content, #header-inner {
+  width: 436px;
+  padding: 36px 22px 48px;
+}
+
+}
+
+/*	Retina media query.
+	Overrides styles for devices with a
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+
+@media
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+
+#content, #header-inner {
+  
+}
+
+}
+
+
+/* #footer {*/
+
+/*   height: 200px;*/
+
+/*   background-color: #372f0f;*/
+
+/*   border-top: 3px solid #7c6e56;*/
+
+/* }*/
+
+
+#content .postdate {
+  font-style: italic;
+}
+
+ul#archive {
+  padding-left: 0;
+}
+
+#archive li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+a.linkblog-permalink {
+}

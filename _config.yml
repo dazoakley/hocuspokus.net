@@ -1,0 +1,8 @@
+markdown: rdiscount
+pygments: true
+lsi: false
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+

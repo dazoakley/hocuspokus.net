@@ -1,0 +1,24 @@
+---
+layout: post
+title: Zotero
+permalink: /2007/11/zotero
+tags:
+- firefox
+- reference-management
+- wordpress
+- zotero
+linkblog: http://www.zotero.org/
+---
+
+[Zotero](http://www.zotero.org/) is a new reference management tool that comes in the form of a Firefox
+(and Flock) extension. It looks like it could be a very good (and free) alternative to commercial reference
+management software tools like Endnote and Reference Manager. It even has plugins for
+[Word and OpenOffice](http://www.zotero.org/documentation/word_processor_integration) for
+cite-while-you-write functionality, and [Wordpress](http://dev.zotero.org/wordpress) so that writers of
+Wordpress based blogs can ensure that their posts are cleanly imported for users of Zotero.
+
+> Zotero [zoh-TAIR-oh] is a free, easy-to-use Firefox extension to help you collect, manage, and cite your
+> research sources. It lives right where you do your work - in the web browser itself.
+
+If you have any potential use for reference management (i.e. if you are a student or scientist) - I
+seriously recommend checking this out.

@@ -1,0 +1,27 @@
+---
+layout: post
+title: HP 2133 UMPC
+permalink: /2008/02/hp-2133-umpc
+tags:
+- eee
+- geek
+- hp
+- laptop
+- ultra-mobile
+- umpc
+linkblog: http://www.engadget.com/2008/02/19/hps-umpc-2133-revealed/
+---
+
+<img
+  src="/images/2008/hp-2133.jpg"
+  alt="HP 2133 UMPC"
+  title="HP 2133 UMPC"
+  class="center border" />
+
+[Engadget](http://www.engadget.com/) are running a story with pics for HP's answer to the Eee PC. It does
+look quite sweet, but no details of the full spec or final price as yet.
+
+If they could pitch this about the same price as the Eee - I could see this being quite sweet... However,
+it says that it can come with Vista or Linux - my bet is that it's going to be a touch more powerful than
+the Eee (it'll need to be if Vista is an option!), and a shedload more cash!!! Please let me be wrong,
+(on the cash point ;) )!

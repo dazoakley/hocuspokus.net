@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8' />
+    <title>{% if page.title %}{{ page.title }} - {% endif %}hocuspokus</title>
+
+    <meta content='3vlU8_dnZ9GkS_8_YHMWMsh2A3IvjZlTZu6JkofSvdw' name='google-site-verification'>
+
+    <meta name='author' content='Darren Oakley' />
+    <meta name='description' content='Geekery, beer, coding, food and all things in between - written by Darren Oakley. Darren works at Nature Publishing Group, but all opionions expressed here are his own... obviously.' />
+
+    <link href='http://hocuspokus.net/atom.xml' rel='alternate' title='hocuspokus &amp;raquo; Feed' type='application/atom+xml'>
+    <link href='http://hocuspokus.net' rel='index' title='hocuspokus'>
+
+
+		<!--[if lt IE 9]>
+			<script src='http://html5shim.googlecode.com/svn/trunk/html5.js'></script>
+    <![endif]-->
+
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Droid+Serif|Signika:700' media='all' type='text/css' />
+    <link rel='stylesheet' href='/css/styles.css' media='all' type='text/css' />
+    <link rel='stylesheet' href='/css/syntax.css' media='all' type='text/css' />
+		<meta name='viewport' content='width=device-width, initial-scale=1'/>
+		<!-- Adding 'maximum-scale=1' fixes the Mobile Safari auto-zoom bug: http://filamentgroup.com/examples/iosScaleBug/ -->
+
+    {% include google_analytics.html %}
+  </head>
+  <body lang="en">
+
+    <header>
+      <div id='header-inner'>
+        <ul id='navigation'>
+          <li><a href='/'>home</a></li>
+          <li><a href='/about'>about</a></li>
+          <li><a href='/archive'>archive</a></li>
+        </ul>
+        <a href='/'><h1>hocuspokus</h1></a>
+      </div>
+    </header>
+
+    <div id='content'>
+      {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+      {{ content }}
+    </div>
+
+    <footer>
+
+    </footer>
+
+    <script>
+      //<![CDATA[
+        (function() {
+          var links = document.getElementsByTagName('a');
+          var query = '?';
+          for(var i = 0; i < links.length; i++) {
+            if(links[i].href.indexOf('#disqus_thread') >= 0) {
+              query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+            }
+          }
+          document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/hocuspokus/get_num_replies.js' + query + '"></' + 'script>');
+        })();
+      //]]>
+    </script>
+  </body>
+</html>
