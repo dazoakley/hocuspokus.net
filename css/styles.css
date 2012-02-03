@@ -42,11 +42,25 @@ body {
 
 /* Selection colours (easy to forget) */
 
-::selection { background: rgb(255,255,158); }
-::-moz-selection { background: rgb(255,255,158); }
-img::selection { background: transparent; }
-img::-moz-selection { background: transparent; }
-body { -webkit-tap-highlight-color: rgb(255,255,158); }
+::selection {
+  background: rgb(255,255,158);
+}
+
+::-moz-selection {
+  background: rgb(255,255,158);
+}
+
+img::selection {
+  background: transparent;
+}
+
+img::-moz-selection {
+  background: transparent;
+}
+
+body {
+  -webkit-tap-highlight-color: rgb(255,255,158);
+}
 
 /* 
 * REORG ME
@@ -99,6 +113,7 @@ pre {
 /* Header */
 
 header {
+  color: #fff;
   background-color: #372f0f;
   border-top: 3px solid #7c6e56;
   border-bottom: 1px solid #96746e;
@@ -109,22 +124,24 @@ header a, header a:visited, header a:hover h1 {
   text-decoration: none;
 }
 
-#navigation {
+nav {
   float: right;
   margin: 0;
   padding: 0;
+  top: -45px;
+  position: relative;
 }
 
-#navigation li {
+nav li {
   list-style: none;
   display: inline-block;
 }
 
-#navigation li a {
+nav li a {
   padding: 30px 20px;
 }
 
-#navigation li a:hover {
+nav li a:hover {
   text-decoration: underline;
   color: #999;
 }
@@ -138,13 +155,20 @@ cols    1     2      3      4      5      6      7      8      9      10
 px      68    160    252    344    436    528    620    712    804    896    */
 
 body {
-  -webkit-text-size-adjust: 100%; /* Stops Mobile Safari from auto-adjusting font-sizes */
+  -webkit-text-size-adjust: 100%;
+
+
+/* Stops Mobile Safari from auto-adjusting font-sizes */
 }
 
 #content, #header-inner {
   width: 896px;
-  padding: 30px 48px;
   margin: 0 auto;
+  padding: 30px 48px;
+}
+
+#content {
+  padding-top: 25px;
 }
 
 /*		Tablet Layout: 768px.
@@ -162,6 +186,10 @@ px      68    160    252    344    436    528    620    712    */
   padding: 30px 28px;
 }
 
+#content {
+  padding-top: 25px;
+}
+
 }
 
 /*		Mobile Layout: 320px.
@@ -174,9 +202,43 @@ px      68    160    252    */
 
 @media only screen and (max-width: 767px) {
 
+body {
+  font-size: 14px;
+  line-height: 30px;
+}
+
 #content, #header-inner {
   width: 252px;
-  padding: 48px 34px 60px;
+  padding: 20px;
+}
+
+#header-inner {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+  float: none;
+  top: 0;
+}
+
+nav ul {
+  padding: 0;
+  margin: 2px 0 0;
+}
+
+nav ul li a {
+  padding: 6px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#related ul {
+  padding-left: 18px;
 }
 
 }
@@ -193,7 +255,12 @@ px      68    160    252    344    436    */
 
 #content, #header-inner {
   width: 436px;
-  padding: 36px 22px 48px;
+  padding: 20px;
+}
+
+#header-inner {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 }
@@ -213,7 +280,6 @@ px      68    160    252    344    436    */
 
 }
 
-
 /* #footer {*/
 
 /*   height: 200px;*/
@@ -223,7 +289,6 @@ px      68    160    252    344    436    */
 /*   border-top: 3px solid #7c6e56;*/
 
 /* }*/
-
 
 #content .postdate {
   font-style: italic;
@@ -239,4 +304,5 @@ ul#archive {
 }
 
 a.linkblog-permalink {
+  
 }
