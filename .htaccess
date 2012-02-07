@@ -1,0 +1,29 @@
+# gzip compression.
+<IfModule mod_deflate.c>
+  # html, txt, css, js, json, xml, htc:
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript application/json
+  AddOutputFilterByType DEFLATE text/xml application/xml text/x-component
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # www.example.com to forward to example.com
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+</IfModule>
+
+# use utf-8 encoding for anything served text/plain or text/html
+AddDefaultCharset utf-8
+
+# force utf-8 for a number of file formats
+AddCharset utf-8 .html .css .js .xml .json .rss
+
+# We don't need to tell everyone we're apache.
+ServerSignature Off
+
+# Redirects
+redirect 301 /feed/ http://hocuspokus.net/atom.xml
+
