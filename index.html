@@ -3,18 +3,10 @@ layout: layout
 title:
 ---
 
-<div class="related">
+<div class='related'>
   <ul>
   {% for post in site.posts %}
-    <li>
-    <span>{{ post.date | date: "%B %e, %Y" }}</span> -
-    {% if post.linkblog.size > 0 %}
-      <a href="{{ post.linkblog }}" class="linkblog">{{ post.title }}</a>
-      <a href="{{ post.url }}" class="linkblog-permalink">.</a>
-    {% else %}
-      <a href="{{ post.url }}" class="permalink">{{ post.title }}</a>
-    {% endif %}
-    </li>
+    {% include related.html %}
   {% endfor %}
   </ul>
 </div>

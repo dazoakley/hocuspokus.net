@@ -1,0 +1,9 @@
+<li class='article'>
+  <span class='date'>{{ post.date | date: '%B %e, %Y' }}</span>
+  {% if post.linkblog.size > 0 %}
+    <a href='{{ post.linkblog }}' class='linkblog'>{{ post.title }}</a>
+    <a href='{{ post.url }}' class='linkblog-permalink'>.</a>
+  {% else %}
+    <a href='{{ post.url }}' class='permalink'>{{ post.title }}</a>
+  {% endif %}
+</li>

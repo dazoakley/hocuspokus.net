@@ -146,6 +146,20 @@ nav li a:hover {
   color: #999;
 }
 
+.related ul {
+  padding-left: 0;
+}
+
+.related li.article {
+  list-style: none;
+}
+
+.related li.article .date {
+  font-size: 13px;
+  display: inline-block;
+  width: 140px;
+}
+
 /*		Default Layout: 992px.
 		Gutters: 24px.
 		Outer margins: 48px.
@@ -237,8 +251,13 @@ nav ul li a {
   margin-right: 10px;
 }
 
-#related ul {
-  padding-left: 18px;
+.related li.article {
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+.related li.article .date {
+  display: block;
 }
 
 }
