@@ -1,6 +1,6 @@
 markdown: rdiscount
 pygments: true
-lsi: false
+lsi: true
 permalink: /posts/:title
 auto: true
 rdiscount:
