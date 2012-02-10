@@ -16,10 +16,21 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://zachholman.com{{ post.url }}"/>
+   {% if post.linkblog.size > 0 %}
+   <link href="{{ post.linkblog }}"/>
+   {% else %}
+   <link href="http://hocuspokus.net{{ post.url }}"/>
+   {% endif %}}
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://hocuspokus.net{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <content type="html">
+     {{ post.content | xml_escape }}
+     {% if post.linkblog.size > 0 %}
+     &lt;div&gt;
+       &lt;a title=&quot;Permalink to '{{ post.title | xml_escape }}'&quot; href=&quot;http://hocuspokus.net{{ post.url }}&quot; target=&quot;_blank&quot;&gt;.&lt;/a&gt;
+     &lt;/div&gt;
+     {% endif %}
+   </content>
  </entry>
  {% endfor %}
 
