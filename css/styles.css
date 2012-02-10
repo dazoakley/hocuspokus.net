@@ -160,6 +160,37 @@ nav li a:hover {
   width: 140px;
 }
 
+.related a:visited {
+  color: #96746e;
+}
+
+.related a.permalink {
+  color: #372f0f;
+}
+
+.related a.permalink:hover {
+  color: #9f9a94;
+}
+
+.related a.permalink, a.linkblog {
+  text-decoration: none;
+}
+
+.related a.linkblog {
+  font-size: 13px;
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+}
+
+.related a.linkblog-permalink {
+  color: #999;
+  text-decoration: none;
+}
+
+.related a.linkblog-permalink:hover {
+  text-decoration: underline;
+}
+
 /*		Default Layout: 992px.
 		Gutters: 24px.
 		Outer margins: 48px.
@@ -311,17 +342,4 @@ px      68    160    252    344    436    */
 
 #content .postdate {
   font-style: italic;
-}
-
-ul#archive {
-  padding-left: 0;
-}
-
-#archive li {
-  list-style-type: none;
-  margin-bottom: 10px;
-}
-
-a.linkblog-permalink {
-  
 }
