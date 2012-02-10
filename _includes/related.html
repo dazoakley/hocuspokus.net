@@ -2,8 +2,8 @@
   <span class='date'>{{ post.date | date: '%B %e, %Y' }}</span>
   {% if post.linkblog.size > 0 %}
     <a href='{{ post.linkblog }}' class='linkblog'>{{ post.title }}</a>
-    <a href='{{ post.url }}' class='linkblog-permalink'>.</a>
+    <a href='{{ post.url }}' title="Permanent link to '{{ post.title }}'" class='permalink linkblog-permalink'>&#187;</a>
   {% else %}
-    <a href='{{ post.url }}' class='permalink'>{{ post.title }}</a>
+    <a href='{{ post.url }}' title="Permanent link to '{{ post.title }}'" class='permalink'>{{ post.title }}</a>
   {% endif %}
 </li>

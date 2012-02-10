@@ -27,7 +27,7 @@ layout: nil
      {{ post.content | xml_escape }}
      {% if post.linkblog.size > 0 %}
      &lt;div&gt;
-       &lt;a title=&quot;Permalink to '{{ post.title | xml_escape }}'&quot; href=&quot;http://hocuspokus.net{{ post.url }}&quot; target=&quot;_blank&quot;&gt;.&lt;/a&gt;
+       &lt;a title=&quot;Permanent link to '{{ post.title | xml_escape }}'&quot; href=&quot;http://hocuspokus.net{{ post.url }}&quot; target=&quot;_blank&quot;&gt;&#187;&lt;/a&gt;
      &lt;/div&gt;
      {% endif %}
    </content>
