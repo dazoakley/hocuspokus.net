@@ -282,6 +282,10 @@ nav ul li a {
   margin-right: 10px;
 }
 
+.related li {
+  font-size: 16px;
+}
+
 .related li.article {
   line-height: 20px;
   margin-bottom: 20px;
