@@ -95,19 +95,37 @@ a:hover {
 }
 
 pre {
-  background-color: #eee;
   text-shadow: none;
   color: #111;
-  border-radius: 5px;
-  padding: 15px;
+  padding: 15px 0 15px 15px;
+}
+
+pre code {
+  padding-right: 15px;
 }
 
 .highlight {
   overflow: hidden;
 }
 
-.highlight:hover {
-  overflow: auto;
+.highlight {
+  background-color: #eee;
+  overflow-y: hidden;
+  overflow-x: auto;
+  border-radius: 5px;
+}
+
+pre::-webkit-scrollbar,
+.highlight::-webkit-scrollbar {
+  height: .6em;
+  background-color: #eee;
+  border-radius: 5px;
+}
+
+pre::-webkit-scrollbar-thumb:horizontal,
+.highlight::-webkit-scrollbar-thumb:horizontal {
+  border-radius: 5px;
+  background-color: #919191;
 }
 
 /* Header */
