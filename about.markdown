@@ -16,11 +16,11 @@ _I'll write some more at a later date..._
 
 If you'd like to know more about me, here's some of the usual links...
 
-* Twitter: [@dazoakley](https://twitter.com/#!/dazoakley)
-* Github: there's [my profile](http://github.com/dazoakley), and a
+* [Twitter (@dazoakley)](https://twitter.com/#!/dazoakley)
+* [GitHub](http://github.com/dazoakley) - and a
   [couple](http://github.com/i-dcc) [of](http://github.com/nature)
-  organisations
-* LinkedIn: <http://www.linkedin.com/in/darrenoakley>
+  organisations I've been/am involved in
+* [LinkedIn](http://www.linkedin.com/in/darrenoakley)
 
 <sup>\*</sup> Usual disclaimer - all opinions, rants, rages or obsessions
 referenced here are totally my own and not my employers.
