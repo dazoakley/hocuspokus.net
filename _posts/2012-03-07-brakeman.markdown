@@ -1,0 +1,21 @@
+---
+layout: post
+title: Brakeman
+permalink: /2012/03/brakeman
+tags: [ruby,ruby-on-rails,security]
+linkblog: http://brakemanscanner.org/
+---
+
+> Brakeman is an open source vulnerability scanner specifically designed for
+> Ruby on Rails applications. It statically analyses Rails application code
+> to find security issues at any stage of development.
+
+Following [this weekends Github hacking fiasco](https://github.com/blog/1068-public-key-security-vulnerability-and-mitigation)
+we've started running [brakeman](http://brakemanscanner.org/) as part of our
+builds at work.  Turned up some interesting things thus far - highly
+recommended!!!
+
+There's also a [Jenkins plugin](https://wiki.jenkins-ci.org/display/JENKINS/Brakeman+Plugin)
+available to get nice graphs showing trends over time on your build pages - so
+go set that up too if you use Jenkins.
+
