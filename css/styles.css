@@ -128,6 +128,15 @@ pre::-webkit-scrollbar-thumb:horizontal,
   background-color: #919191;
 }
 
+/* Blockquotes */
+
+blockquote {
+  color: #929292;
+  font-style: italic;
+  border-left: 3px solid #929292;
+  padding-left: 12px;
+}
+
 /* Header */
 
 header {
@@ -163,6 +172,8 @@ nav li a:hover {
   text-decoration: underline;
   color: #999;
 }
+
+/* Post Lists */
 
 .related ul {
   padding-left: 0;
