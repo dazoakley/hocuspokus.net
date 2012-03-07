@@ -1,4 +1,7 @@
-/* @override http://localhost:4000/css/styles.css */
+/* @override 
+	http://localhost:4000/css/styles.css
+	http://hocuspokus.net/css/styles.css
+*/
 
 /*	Less Framework 4
 	http://lessframework.com
@@ -70,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Signika', 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;
 }
 
-div, p, h2, h3, h4, h5, h6 {
+p, h2, h3, h4, h5, h6, .highlight {
   margin-top: 12px;
 }
 
@@ -90,8 +93,13 @@ a:hover {
 
 /* Code */
 
+p code {
+  color: #333;
+}
+
 .highlight, code {
   font: 12px monaco, "bitstream vera sans mono", "andale mono", "lucida console", monospace;
+  color: #E6E1DC;
 }
 
 pre {
@@ -118,7 +126,7 @@ pre code {
 pre::-webkit-scrollbar,
 .highlight::-webkit-scrollbar {
   height: .6em;
-  background-color: #eee;
+  background-color: #2b2b2b;
   border-radius: 5px;
 }
 
