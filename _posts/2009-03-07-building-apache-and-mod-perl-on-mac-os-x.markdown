@@ -137,7 +137,7 @@ mate StartupParameters.plist
 
 Paste this content into the file:
 
-{% highlight plain_text %}
+{% highlight text %}
 {
   Description     = "Apache web server";
   Provides        = ("Web Server");

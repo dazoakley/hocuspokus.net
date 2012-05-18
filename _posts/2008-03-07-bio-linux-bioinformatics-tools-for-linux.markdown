@@ -24,7 +24,7 @@ sudo gedit /etc/apt/sources.list
 
 Add the following lines to the end of the file:
 
-{% highlight plain_text %}
+{% highlight text %}
 # Bio-Linux package repository
 deb http://envgen.nox.ac.uk/bio-linux/ unstable bio-linux
 {% endhighlight %}

@@ -70,25 +70,25 @@ Now, to edit a couple of lines in the 'Connections and Authentication' section..
 
 Change the line:
 
-{% highlight plain_text %}
+{% highlight text %}
 #listen_addresses = 'localhost'
 {% endhighlight %}
 
 to
 
-{% highlight plain_text %}
+{% highlight text %}
 listen_addresses = '*'
 {% endhighlight %}
 
 and also change the line:
 
-{% highlight plain_text %}
+{% highlight text %}
 #password_encryption = on
 {% endhighlight %}
 
 to
 
-{% highlight plain_text %}
+{% highlight text %}
 password_encryption = on
 {% endhighlight %}
 
@@ -105,7 +105,7 @@ sudo gedit /etc/postgresql/8.3/main/pg_hba.conf
 
 Comment out, or delete the current contents of the file, then add this text to the bottom of the file:
 
-{% highlight plain_text %}
+{% highlight text %}
 # DO NOT DISABLE!
 # If you change this first entry you will need to make sure that the
 # database
