@@ -1,5 +1,3 @@
-require 'rubygems'
-require 'rake'
 require 'fileutils'
 
 def new_post_file(name,linkblog=nil)
