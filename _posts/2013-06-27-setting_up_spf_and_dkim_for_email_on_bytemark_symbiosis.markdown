@@ -112,7 +112,7 @@ line for each domain you wish to send singned emails):
 *@londonamateurbrewers.co.uk: londonamateurbrewers.co.uk
 {% endhighlight %}
 
-Now to edit `/etc/exim4/symbiosis.d/20-routers/10-dnslookup` to look like this:
+Now create the following file `/etc/exim4/symbiosis.d/20-routers/05-dnslookup-dkim` and make it look like this:
 
 {% highlight text %}
 # This router routes addresses that are not in local domains by doing a DNS
@@ -154,7 +154,7 @@ dnslookup:
   no_more
 {% endhighlight %}
 
-And then `/etc/exim4/symbiosis.d/30-transports/10-remote-smtp` to look like this:
+And also create `/etc/exim4/symbiosis.d/30-transports/05-remote-smtp-dkim` and make it look like this:
 
 {% highlight text %}
 # This transport is used for delivering messages over SMTP connections.
