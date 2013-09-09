@@ -39,7 +39,7 @@ end
 
 desc "Startup Jekyll"
 task :start do
-  sh "jekyll serve"
+  sh "jekyll --server"
 end
 
 desc "Deploy..."
