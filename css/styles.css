@@ -1,4 +1,4 @@
-/* @override 
+/* @override
 	http://localhost:4000/css/styles.css
 	http://hocuspokus.net/css/styles.css
 */
@@ -13,7 +13,7 @@
 
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em,
-img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr, 
+img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, hr,
 fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, figure, figcaption, hgroup,
 menu, footer, header, nav, section, summary, time, mark, audio, video {
@@ -65,7 +65,7 @@ body {
   -webkit-tap-highlight-color: rgb(255,255,158);
 }
 
-/* 
+/*
 * REORG ME
 */
 
@@ -75,6 +75,11 @@ h1, h2, h3, h4, h5, h6 {
 
 p, h2, h3, h4, h5, h6, .highlight {
   margin-top: 12px;
+}
+
+hr {
+  border: 2px #999 dotted;
+  margin-top: 10px;
 }
 
 /* Links */
@@ -366,7 +371,7 @@ px      68    160    252    344    436    */
 	only screen and (min-device-pixel-ratio: 2) {
 
 #content, #header-inner {
-  
+
 }
 
 }

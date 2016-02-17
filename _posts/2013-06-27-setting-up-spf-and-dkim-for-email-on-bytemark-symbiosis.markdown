@@ -9,6 +9,16 @@ tags:
 - dkim
 ---
 
+---
+
+**EDIT 17-February-2016:** Please DO NOT use these instructions to configure your
+server for SPF and DKIM.  Bytemark Symbiosis now supports this out of the box - please
+see the following documentation for more information:
+
+[http://symbiosis.bytemark.co.uk/docs/symbiosis.html#s-spf-dkim](http://symbiosis.bytemark.co.uk/docs/symbiosis.html#s-spf-dkim)
+
+---
+
 I've been setting up a new [phpBB forum](http://www.phpbb.com) for my
 [homebrew club](http://londonamateurbrewers.co.uk) (LAB) over the last week or so
 and one of the main problems I found was that all the emails from the forum were
@@ -113,19 +123,19 @@ line for each domain you wish to send singned emails):
 
 Now to edit `/etc/exim4/symbiosis.d/20-routers/10-dnslookup` to look like this:
 
-{% highlight text %}
-# This router routes addresses that are not in local domains by doing a DNS
-# lookup on the domain name. The exclamation mark that appears in "domains = !
-# +local_domains" is a negating operator, that is, it can be read as "not". The
-# recipient's domain must not be one of those defined by "domainlist
-# local_domains" above for this router to be used.
-#
-# If the router is used, any domain that resolves to 0.0.0.0 or to a loopback
-# interface address (127.0.0.0/8) is treated as if it had no DNS entry. Note
-# that 0.0.0.0 is the same as 0.0.0.0/32, which is commonly treated as the
-# local host inside the network stack. It is not 0.0.0.0/0, the default route.
-# If the DNS lookup fails, no further routers are tried because of the no_more
-# setting, and consequently the address is unrouteable.
+{% highlight conf %}
+  # This router routes addresses that are not in local domains by doing a DNS
+  # lookup on the domain name. The exclamation mark that appears in "domains = !
+  # +local_domains" is a negating operator, that is, it can be read as "not". The
+  # recipient's domain must not be one of those defined by "domainlist
+  # local_domains" above for this router to be used.
+  #
+  # If the router is used, any domain that resolves to 0.0.0.0 or to a loopback
+  # interface address (127.0.0.0/8) is treated as if it had no DNS entry. Note
+  # that 0.0.0.0 is the same as 0.0.0.0/32, which is commonly treated as the
+  # local host inside the network stack. It is not 0.0.0.0/0, the default route.
+  # If the DNS lookup fails, no further routers are tried because of the no_more
+  # setting, and consequently the address is unrouteable.
 
 dnslookup_dkim:
   debug_print = "R: dnslookup_dkim for $local_part@$domain"
@@ -155,7 +165,7 @@ dnslookup:
 
 And then `/etc/exim4/symbiosis.d/30-transports/10-remote-smtp` to look like this:
 
-{% highlight text %}
+{% highlight conf %}
 # This transport is used for delivering messages over SMTP connections.
 
 remote_smtp_dkim:
