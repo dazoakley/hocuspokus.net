@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Britain Advises Against Vista, Office 2007 for Schools
-permalink: /2008/01/britain-advises-against-vista-office-2007-for-schools
 tags:
 - business
 - linux

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sync Your Things Database via Dropbox
-permalink: /2008/11/sync-your-things-database-via-dropbox
 tags:
 - dropbox
 - gtd

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Copy/Paste Highlighted Code with Vim
-permalink: /2012/03/copy-paste-highlighted-code-with-vim
 tags: [vim,keynote,presentation]
 ---
 
@@ -27,4 +26,3 @@ keynote etc! :)
 <sup>\*</sup> You may need to apply the changes from this
 [pull request](https://github.com/dharanasoft/rtf-highlight/pull/1) to the Vim
 plugin to get it to work with more recent versions of the highlight library.
-

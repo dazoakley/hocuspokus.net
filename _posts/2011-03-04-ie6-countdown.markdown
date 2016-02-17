@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IE6 Countdown
-permalink: /2011/03/ie6-countdown
 tags:
 - ie
 - microsoft

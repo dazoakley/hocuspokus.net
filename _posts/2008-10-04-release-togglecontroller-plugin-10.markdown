@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ! 'Release: toggleController Plugin 1.0'
-permalink: /2008/10/release-togglecontroller-plugin-10
 tags:
 - javascript
 - jquery

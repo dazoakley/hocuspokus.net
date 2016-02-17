@@ -1,7 +1,6 @@
 ---
 layout: post
 title: London Teen Orders 'cab, innit'
-permalink: /2008/04/london-teen-orders-cab-innit
 tags:
 - funny
 - omgi

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COD4 is Awesome!
-permalink: /2008/04/cod4-is-awesome
 tags:
 - cod
 - games

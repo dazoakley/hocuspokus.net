@@ -1,7 +1,6 @@
 ---
 layout: post
 title: It's Official - iPhone SDK Coming Soon
-permalink: /2007/10/its-official-iphone-sdk-coming-soon
 tags:
 - apple
 - geek

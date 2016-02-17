@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pheasant and Mushroom Risotto
-permalink: /2010/12/pheasant-and-mushroom-risotto
 tags:
 - food
 - game
@@ -11,7 +10,7 @@ tags:
 - risotto
 ---
 
-I had some left over pheasant meat (breast and leg) to go with [the stock](/2010/12/pheasant-stock/) 
+I had some left over pheasant meat (breast and leg) to go with [the stock](/2010/12/pheasant-stock/)
 that I made the other night, so I decided to make a nice risotto out if it. :)
 
 The following quantities are for two servings.

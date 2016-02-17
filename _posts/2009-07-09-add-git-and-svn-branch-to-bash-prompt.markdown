@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Add Git and SVN Branch to Bash Prompt
-permalink: /2009/07/add-git-and-svn-branch-to-bash-prompt
 tags:
 - bash
 - command-line

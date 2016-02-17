@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Active Scaffold Ajax CRUD Interfaces for Ruby on Rails
-permalink: /2007/12/active-scaffold-ajax-crud-interfaces-for-ruby-on-rails
 tags:
 - ajax
 - css

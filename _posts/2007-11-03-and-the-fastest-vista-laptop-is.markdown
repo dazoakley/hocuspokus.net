@@ -1,7 +1,6 @@
 ---
 layout: post
 title: And the Fastest Vista Laptop is...
-permalink: /2007/11/and-the-fastest-vista-laptop-is
 tags:
 - apple
 - geek

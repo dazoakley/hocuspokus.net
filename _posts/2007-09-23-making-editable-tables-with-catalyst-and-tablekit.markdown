@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Making Editable Tables with Catalyst and TableKit
-permalink: /2007/09/making-editable-tables-with-catalyst-and-tablekit
 tags:
 - ajax
 - catalyst

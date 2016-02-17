@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google Adds Gears to Safari
-permalink: /2008/09/google-adds-gears-to-safari
 tags:
 - google
 - mac

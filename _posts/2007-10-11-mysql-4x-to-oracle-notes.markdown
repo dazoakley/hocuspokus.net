@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MySQL 4.x to Oracle Notes
-permalink: /2007/10/mysql-4x-to-oracle-notes
 tags:
 - mysql
 - oracle

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Wordpress Theme Notes
-permalink: /2008/10/wordpress-theme-notes
 tags:
 - wordpress
 ---

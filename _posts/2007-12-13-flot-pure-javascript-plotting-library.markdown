@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ! 'Flot: Pure Javascript Plotting Library'
-permalink: /2007/12/flot-pure-javascript-plotting-library
 tags:
 - geek
 - javascript

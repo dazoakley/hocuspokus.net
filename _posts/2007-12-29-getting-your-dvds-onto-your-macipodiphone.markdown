@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Getting your DVDs onto your Mac/iPod/iPhone
-permalink: /2007/12/getting-your-dvds-onto-your-macipodiphone
 tags:
 - film
 - geek

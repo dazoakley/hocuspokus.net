@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Give Your Website a Homepage Button on iOS
-permalink: /2013/02/give-your-website-a-homepage-button-on-ios
 tags:
 - webapp
 - ios
@@ -69,4 +68,3 @@ solution for [SciCombinator](http://www.scicombinator.com):
 * [https://gist.github.com/irae/1042167](https://gist.github.com/irae/1042167)
 
 And that's all there is to it!
-

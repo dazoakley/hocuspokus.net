@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Installing Apache and PHP Troubles
-permalink: /2007/11/installing-apache-and-php-troubles
 tags:
 - apache
 - linux

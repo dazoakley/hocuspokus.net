@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QGtkStyle now part of Qt
-permalink: /2008/09/qgtkstyle-now-part-of-qt
 tags:
 - gnome
 - kde

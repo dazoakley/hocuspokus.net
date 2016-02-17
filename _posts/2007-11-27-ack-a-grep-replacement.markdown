@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ack, a Grep Replacement
-permalink: /2007/11/ack-a-grep-replacement
 tags:
 - grep
 - perl

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EVE Online for Mac/Linux on Tuesday
-permalink: /2007/11/eve-online-for-maclinux-on-tuesday
 tags:
 - geek
 - linux

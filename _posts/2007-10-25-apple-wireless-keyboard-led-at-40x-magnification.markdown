@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Apple Wireless Keyboard LED at 40x Magnification
-permalink: /2007/10/apple-wireless-keyboard-led-at-40x-magnification
 tags:
 - apple
 - geek

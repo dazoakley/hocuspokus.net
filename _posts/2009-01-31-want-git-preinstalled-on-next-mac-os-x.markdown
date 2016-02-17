@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Want Git preinstalled on next Mac OS X?
-permalink: /2009/01/want-git-preinstalled-on-next-mac-os-x
 tags:
 - git
 - mac

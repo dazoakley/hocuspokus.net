@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Top 10 Quicksilver Plugins
-permalink: /2007/11/top-10-quicksilver-plugins
 tags:
 - apple
 - mac

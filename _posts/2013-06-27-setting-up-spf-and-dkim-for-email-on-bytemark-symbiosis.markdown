@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Setting up SPF and DKIM for email on Bytemark Symbiosis
-permalink: /2013/06/setting-up-spf-and-dkim-for-email-on-bytemark-symbiosis
 tags:
 - email
 - web-hosting
@@ -197,4 +196,3 @@ That's should be about it, now all you have to do is test it out using
   * Using DKIM in Exim: [http://subhrajitnandy.wordpress.com/using-dkim-in-exim/](http://subhrajitnandy.wordpress.com/using-dkim-in-exim/)
   * Using DKIM in Exim: [http://www.debian-administration.org/users/lee/weblog/41](http://www.debian-administration.org/users/lee/weblog/41)
   * DKIM Test: [http://www.appmaildev.com/en/dkim/](http://www.appmaildev.com/en/dkim/)
-

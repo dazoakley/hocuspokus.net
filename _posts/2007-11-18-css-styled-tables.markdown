@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CSS Styled Tables
-permalink: /2007/11/css-styled-tables
 tags:
 - css
 - html

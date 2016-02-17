@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Installing R/BioConductor on Ubuntu 8.04
-permalink: /2008/05/installing-r-bioconductor-on-ubuntu-804
 tags:
 - bioconductor
 - bioinformatics

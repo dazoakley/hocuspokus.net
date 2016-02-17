@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google Chart API
-permalink: /2007/12/google-chart-api
 tags:
 - geek
 - google

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google Maps For Mobiles
-permalink: /2007/10/google-maps-for-mobiles
 tags:
 - google
 linkblog: http://www.google.co.uk/gmm/index.html

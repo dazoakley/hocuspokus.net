@@ -1,7 +1,6 @@
 ---
 layout: post
 title: UK ISPs To Start Tracking Your Surfing To Serve You Ads
-permalink: /2008/02/uk-isps-to-start-tracking-your-surfing-to-serve-you-ads
 tags:
 - big-brother
 - rant

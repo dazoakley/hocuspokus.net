@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Installing RMagick on Snow Leopard / Leopard
-permalink: /2010/03/installing-rmagick-on-snow-leopard-leopard
 tags:
 - gem
 - install

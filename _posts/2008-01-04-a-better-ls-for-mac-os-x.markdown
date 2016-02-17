@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A better ls for Mac OS X
-permalink: /2008/01/a-better-ls-for-mac-os-x
 tags:
 - colour-scheme
 - command-line

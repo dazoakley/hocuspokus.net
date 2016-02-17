@@ -1,7 +1,6 @@
 ---
 layout: post
 title: X-Wing Launches, Falls Apart...
-permalink: /2007/10/x-wing-launches-falls-apart
 tags:
 - geek
 - star-wars

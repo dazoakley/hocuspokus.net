@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Quake 3 for the iPod Touch/iPhone
-permalink: /2008/04/quake-3-for-the-ipod-touch-iphone
 tags:
 - geek
 - iphone

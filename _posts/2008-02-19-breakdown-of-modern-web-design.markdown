@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Breakdown of Modern Web Design
-permalink: /2008/02/breakdown-of-modern-web-design
 tags:
 - ie
 - microsoft

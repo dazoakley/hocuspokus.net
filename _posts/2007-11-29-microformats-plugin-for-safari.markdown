@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Microformats Plugin for Safari
-permalink: /2007/11/microformats-plugin-for-safari
 tags:
 - firefox
 - geek

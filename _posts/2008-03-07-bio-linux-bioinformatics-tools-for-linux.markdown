@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bio-Linux - Bioinformatics Tools for Linux
-permalink: /2008/03/bio-linux-bioinformatics-tools-for-linux
 tags:
 - bioinformatics
 - howto

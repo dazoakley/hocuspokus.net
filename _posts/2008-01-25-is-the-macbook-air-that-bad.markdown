@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Is the MacBook Air THAT Bad?!?
-permalink: /2008/01/is-the-macbook-air-that-bad
 tags:
 - apple
 - mac

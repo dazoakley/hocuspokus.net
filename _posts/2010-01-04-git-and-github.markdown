@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Git and Github
-permalink: /2010/01/git-and-github
 tags:
 - git
 - github
@@ -10,7 +9,7 @@ tags:
 ---
 
 Here's the slides of another presentation I gave at work just before the Christmas break - this
-time on some of the development tools and resources that i'm using in my work: 
+time on some of the development tools and resources that i'm using in my work:
 [git](http://git-scm.com/) and [github](http://github.com/).
 
 The general gist is a basic introduction to both git and github, for developers who are already
@@ -24,8 +23,8 @@ such as git.
     <param name="allowScriptAccess" value="always"/>
     <embed
       src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=git-intro-091215075529-phpapp01&stripped_title=git-and-github"
-      type="application/x-shockwave-flash" 
-      allowscriptaccess="always" 
+      type="application/x-shockwave-flash"
+      allowscriptaccess="always"
       allowfullscreen="true"
       width="425" height="355">
     </embed>

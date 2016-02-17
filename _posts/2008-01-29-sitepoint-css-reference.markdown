@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SitePoint CSS Reference
-permalink: /2008/01/sitepoint-css-reference
 tags:
 - css
 - documentation

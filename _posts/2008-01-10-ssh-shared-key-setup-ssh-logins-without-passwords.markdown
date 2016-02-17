@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SSH Shared-Key Setup - SSH Logins Without Passwords
-permalink: /2008/01/ssh-shared-key-setup-ssh-logins-without-passwords
 tags:
 - command-line
 - geek

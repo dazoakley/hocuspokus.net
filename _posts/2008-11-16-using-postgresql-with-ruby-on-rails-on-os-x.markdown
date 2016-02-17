@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Using PostgreSQL with Ruby on Rails on OS X
-permalink: /2008/11/using-postgresql-with-ruby-on-rails-on-os-x
 tags:
 - postgresql
 - ruby

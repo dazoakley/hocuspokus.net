@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VMWare Fusion 2 is Out
-permalink: /2008/09/vmware-fusion-2-is-out
 tags:
 - mac
 - vmware

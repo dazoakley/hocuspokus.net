@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Zotero
-permalink: /2007/11/zotero
 tags:
 - firefox
 - reference-management

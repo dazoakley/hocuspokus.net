@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Auto-Increment ID's In Oracle
-permalink: /2007/10/auto-increment-ids-in-oracle
 tags:
 - mysql
 - oracle

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Let's get started...
-permalink: /2007/09/lets-get-started
 tags:
 - ego
 ---

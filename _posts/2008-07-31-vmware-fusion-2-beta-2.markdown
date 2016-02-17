@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VMWare Fusion 2 Beta 2
-permalink: /2008/07/vmware-fusion-2-beta-2
 tags:
 - linux
 - mac

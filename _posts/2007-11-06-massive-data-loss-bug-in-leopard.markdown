@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Massive Data Loss Bug in Leopard
-permalink: /2007/11/massive-data-loss-bug-in-leopard
 tags:
 - leopard
 - mac

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: One Day To Go...
-permalink: /2007/09/one-day-to-go
 tags:
 - halo
 - xbox

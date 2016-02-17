@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Visualizing your DBIC schema
-permalink: /2007/10/visualizing-your-dbic-schema
 tags:
 - catalyst
 - mysql

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What Do You Do With Old Versions of IE?
-permalink: /2008/05/what-do-you-do-with-old-versions-of-ie
 tags:
 - funny
 - ie

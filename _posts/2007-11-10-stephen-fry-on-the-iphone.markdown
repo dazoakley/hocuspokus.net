@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stephen Fry on the iPhone
-permalink: /2007/11/stephen-fry-on-the-iphone
 tags:
 - apple
 - geek

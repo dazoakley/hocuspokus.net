@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Oh god, 8 is on the way...
-permalink: /2008/02/oh-god-8-is-on-the-way
 tags:
 - ie
 - microsoft

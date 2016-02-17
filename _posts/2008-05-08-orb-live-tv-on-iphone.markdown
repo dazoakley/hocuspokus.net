@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Orb - Live TV on iPhone
-permalink: /2008/05/orb-live-tv-on-iphone
 tags:
 - apple
 - iphone

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ! 'The Black Art of BioMart: Ontology Searching'
-permalink: /2011/04/the-black-art-of-biomart-ontology-searching
 tags:
 - biomart
 - ontology

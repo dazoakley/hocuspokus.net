@@ -1,7 +1,6 @@
 ---
 layout: post
 title: iPhone "Invention of the Year"???
-permalink: /2007/11/iphone-invention-of-the-year
 tags:
 - apple
 - iphone

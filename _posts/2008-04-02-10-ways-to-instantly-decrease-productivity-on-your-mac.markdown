@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 10 Ways to Instantly DEcrease Productivity on your Mac
-permalink: /2008/04/10-ways-to-instantly-decrease-productivity-on-your-mac
 tags:
 - funny
 - mac

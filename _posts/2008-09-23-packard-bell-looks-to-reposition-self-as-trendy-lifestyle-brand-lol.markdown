@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Packard Bell looks to reposition self as 'trendy' lifestyle brand... LOL!
-permalink: /2008/09/packard-bell-looks-to-reposition-self-as-trendy-lifestyle-brand-lol
 tags:
 - funny
 - packard-bell

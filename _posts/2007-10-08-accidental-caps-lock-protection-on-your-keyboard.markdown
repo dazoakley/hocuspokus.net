@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Accidental Caps Lock Protection On Your Keyboard
-permalink: /2007/10/accidental-caps-lock-protection-on-your-keyboard
 tags:
 - apple
 - os-x

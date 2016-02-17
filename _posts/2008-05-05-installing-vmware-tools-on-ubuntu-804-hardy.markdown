@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Installing VMware Tools on Ubuntu 8.04 (Hardy)
-permalink: /2008/05/installing-vmware-tools-on-ubuntu-804-hardy
 tags:
 - linux
 - mac

@@ -2,7 +2,6 @@
 layout: post
 title: ! 'IWPLS 2009: The Sanger Mouse Resources Portal - a Testbed for Collaborative
   Data Integration'
-permalink: /2009/09/iwpls-2009-the-sanger-mouse-resources-portal-a-testbed-for-collaborative-data-integration
 tags:
 - biomart
 - data-integration

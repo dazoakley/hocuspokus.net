@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Open Sauce?
-permalink: /2008/04/open-sauce
 tags:
 - other
 linkblog: http://www.opensourcefood.com/

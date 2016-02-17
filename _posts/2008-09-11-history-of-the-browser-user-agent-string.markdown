@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ! 'History of the Browser User-Agent String '
-permalink: /2008/09/history-of-the-browser-user-agent-string
 tags:
 - chrome
 - firefox

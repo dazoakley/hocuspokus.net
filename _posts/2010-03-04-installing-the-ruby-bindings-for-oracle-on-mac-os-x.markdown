@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Installing the Ruby Bindings for Oracle on Mac OS X
-permalink: /2010/03/installing-the-ruby-bindings-for-oracle-on-mac-os-x
 tags:
 - gem
 - install

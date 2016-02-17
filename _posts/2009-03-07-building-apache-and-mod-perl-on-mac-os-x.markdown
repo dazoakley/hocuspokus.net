@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Building Apache and Mod Perl on Mac OS X
-permalink: /2009/03/building-apache-and-mod-perl-on-mac-os-x
 tags:
 - apache
 - mac

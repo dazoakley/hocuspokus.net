@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Use Leopards Quick Look from the Terminal
-permalink: /2007/11/use-leopards-quick-look-from-the-terminal
 tags:
 - mac
 - os-x

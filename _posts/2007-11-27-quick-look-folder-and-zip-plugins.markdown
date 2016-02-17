@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Quick Look Folder and Zip plugins
-permalink: /2007/11/quick-look-folder-and-zip-plugins
 tags:
 - leopard
 - mac
@@ -18,7 +17,7 @@ This is yet another example of why I want to upgrade to Leopard...
 > Quick Look doesn't support. Fortunately, Apple was smart enough to design Quick Look with an open
 > architecture that allows developers to write their own plugins and support more file formats, which
 > Japanese developer Taiyo used to write two excellent plugins.
-> 
+>
 > The first addresses a serious annoyance with the default Quick Look implementation on folders. If you
 > invoke Quick Look with a folder selected in the Finder you'll get...a picture of the folder icon. Frankly,
 > that's pretty stupid. Taiyo's [Folder Quick Look Plugin](http://d.hatena.ne.jp/t_trace/20071124/p3) fixes

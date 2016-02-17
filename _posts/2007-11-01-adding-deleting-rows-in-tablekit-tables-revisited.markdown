@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Adding/Deleting Rows In TableKit Tables Revisited
-permalink: /2007/11/adding-deleting-rows-in-tablekit-tables-revisited
 tags:
 - ajax
 - catalyst

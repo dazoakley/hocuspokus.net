@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gears of War 2 Introduces "Linked Achievements"
-permalink: /2008/07/gears-of-war-2-introduces-linked-achievements
 tags:
 - gow2
 - xbox360

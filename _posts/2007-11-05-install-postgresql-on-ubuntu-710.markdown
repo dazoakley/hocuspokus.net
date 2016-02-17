@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Install PostgreSQL on Ubuntu 7.10
-permalink: /2007/11/install-postgresql-on-ubuntu-710
 tags:
 - geek
 - linux

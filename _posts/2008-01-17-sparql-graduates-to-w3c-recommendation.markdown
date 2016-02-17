@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ! ' SPARQL Graduates to W3C Recommendation'
-permalink: /2008/01/sparql-graduates-to-w3c-recommendation
 tags:
 - geek
 - sparql

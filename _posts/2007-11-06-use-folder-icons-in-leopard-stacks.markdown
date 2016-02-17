@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Use Folder Icons in Leopard Stacks
-permalink: /2007/11/use-folder-icons-in-leopard-stacks
 tags:
 - leopard
 - mac

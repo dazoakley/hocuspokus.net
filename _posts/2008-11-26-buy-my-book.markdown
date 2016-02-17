@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Buy My Book!
-permalink: /2008/11/buy-my-book
 tags:
 - bioinformatics
 - bixsolutions
@@ -36,7 +35,7 @@ Was I really involved in writing something that sounds this classy?!?!
 
 
 The book that I am a co-author on, **Building Bioinformatics Solutions** is shortly going to
-be available on 
+be available on
 <a href="http://www.amazon.co.uk/gp/product/0199230234?ie=UTF8&amp;tag=buildibioinfs-21&amp;linkCode=as2&amp;camp=1634&amp;creative=6738&amp;creativeASIN=0199230234">
     Amazon (UK)
 </a>

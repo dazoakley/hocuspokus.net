@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Install PostgreSQL on Ubuntu 8.04
-permalink: /2008/05/install-postgresql-on-ubuntu-804
 tags:
 - linux
 - postgresql

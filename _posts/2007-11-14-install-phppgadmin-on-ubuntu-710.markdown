@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Install phpPgAdmin on Ubuntu 7.10
-permalink: /2007/11/install-phppgadmin-on-ubuntu-710
 tags:
 - apache
 - linux

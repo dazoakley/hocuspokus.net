@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Removing ._ Files From Mounted Drives
-permalink: /2010/02/removing-_-files-from-mounted-drives
 tags:
 - geek
 - mac

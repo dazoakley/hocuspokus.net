@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hiding Keynote Presentations
-permalink: /2008/01/hiding-keynote-presentations
 tags:
 - apple
 - iwork

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HP 2133 UMPC
-permalink: /2008/02/hp-2133-umpc
 tags:
 - eee
 - geek

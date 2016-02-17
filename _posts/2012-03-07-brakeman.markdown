@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Brakeman
-permalink: /2012/03/brakeman
 tags: [ruby,ruby-on-rails,security]
 linkblog: http://brakemanscanner.org/
 ---
@@ -18,4 +17,3 @@ recommended!!!
 There's also a [Jenkins plugin](https://wiki.jenkins-ci.org/display/JENKINS/Brakeman+Plugin)
 available to get nice graphs showing trends over time on your build pages - so
 go set that up too if you use Jenkins.
-

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Getting Gmail IMAP Running Nicely
-permalink: /2007/11/getting-gmail-imap-running-nicely
 tags:
 - geek
 - gmail

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First Gears of War 2 Footage
-permalink: /2008/05/first-gears-of-war-2-footage
 tags:
 - games
 - gow2

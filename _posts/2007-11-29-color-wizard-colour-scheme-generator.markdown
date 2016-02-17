@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Color Wizard - Colour Scheme Generator
-permalink: /2007/11/color-wizard-colour-scheme-generator
 tags:
 - colour-scheme
 - css

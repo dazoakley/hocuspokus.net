@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How Videogames Blind Us With Science
-permalink: /2008/09/how-videogames-blind-us-with-science
 tags:
 - games
 - science

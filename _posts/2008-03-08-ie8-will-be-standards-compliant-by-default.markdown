@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IE8 Will Be Standards-Compliant By Default
-permalink: /2008/03/ie8-will-be-standards-compliant-by-default
 tags:
 - ie
 - microsoft

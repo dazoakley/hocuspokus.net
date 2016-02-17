@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AVG Free Gets an Update
-permalink: /2008/04/avg-free-gets-an-update
 tags:
 - anti-virus
 - avg

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fring for iPhone
-permalink: /2008/04/fring-for-iphone
 tags:
 - iphone
 - voip

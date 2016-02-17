@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gears of War 2 - November
-permalink: /2008/02/gears-of-war-2-november
 tags:
 - gears
 - geek

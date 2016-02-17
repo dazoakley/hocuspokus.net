@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sinon.js
-permalink: /2011/12/sinon-js
 tags:
 - javascript
 - testing

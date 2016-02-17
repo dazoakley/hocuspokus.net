@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mount ISO Files With Nautilus
-permalink: /2007/11/mount-iso-files-with-nautilus
 tags:
 - geek
 - gnome

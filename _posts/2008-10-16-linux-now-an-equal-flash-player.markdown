@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Linux Now an Equal Flash Player
-permalink: /2008/10/linux-now-an-equal-flash-player
 tags:
 - adobe
 - linux

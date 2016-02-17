@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Install PostgreSQL on Mac OS X Leopard
-permalink: /2008/11/install-postgresql-on-mac-os-x-leopard
 tags:
 - datbase
 - mac

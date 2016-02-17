@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Regexp Find and Replace in Ruby's gsub
-permalink: /2012/01/regexp-find-and-replace-in-rubys-gsub
 tags:
 - ruby
 - regexp
@@ -29,4 +28,3 @@ puts text
 
 
 The Perl equivalent to `\1` would be the `$1` matched variable...
-

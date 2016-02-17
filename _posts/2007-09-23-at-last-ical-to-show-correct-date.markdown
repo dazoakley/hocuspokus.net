@@ -1,7 +1,6 @@
 ---
 layout: post
 title: At Last! iCal To Show Correct Date!
-permalink: /2007/09/at-last-ical-to-show-correct-date
 tags:
 - apple
 - os-x

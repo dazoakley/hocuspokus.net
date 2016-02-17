@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ! 'Cloudcamb Notes: Biocep'
-permalink: /2008/12/cloudcamb-notes-biocep
 tags:
 - biocep
 - bioinformatics

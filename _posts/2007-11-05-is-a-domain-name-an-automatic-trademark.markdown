@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Is a Domain Name an Automatic Trademark?
-permalink: /2007/11/is-a-domain-name-an-automatic-trademark
 tags:
 - business
 - rant

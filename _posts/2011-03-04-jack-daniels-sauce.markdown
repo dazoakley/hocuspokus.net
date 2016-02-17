@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jack Daniel's Sauce
-permalink: /2011/03/jack-daniels-sauce
 tags:
 - food
 - recipe
@@ -37,5 +36,5 @@ gently simmer.
 After about 35 minutes slowly add the cornflour mixture stirring constantly until the
 correct consistency is reached.
 
-Use straight away whilst warm or you can keep it in a clean jam jar (or something like) 
+Use straight away whilst warm or you can keep it in a clean jam jar (or something like)
 in the fridge for a while.

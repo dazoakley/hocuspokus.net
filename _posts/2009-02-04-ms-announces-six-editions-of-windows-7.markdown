@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MS Announces Six Editions of Windows 7
-permalink: /2009/02/ms-announces-six-editions-of-windows-7
 tags:
 - microsoft
 - windows

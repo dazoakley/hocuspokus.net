@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google Maps for Mobile Adds Positioning
-permalink: /2007/11/google-maps-for-mobile-adds-positioning
 tags:
 - google
 linkblog: http://www.news.com/8301-10784_3-9824546-7.html?part=rss&subj=news&tag=2547-1_3-0-20

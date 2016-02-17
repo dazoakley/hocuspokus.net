@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Trash Stuff From the Command Line
-permalink: /2008/05/trash-stuff-from-the-command-line
 tags:
 - command-line
 - mac

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Default Text Field Values That Disappear on Focus
-permalink: /2008/05/default-text-field-values-that-disappear-on-focus
 tags:
 - javascript
 - jquery

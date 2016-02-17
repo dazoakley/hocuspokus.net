@@ -24,6 +24,8 @@ AddCharset utf-8 .html .css .js .xml .json .rss
 # We don't need to tell everyone we're apache.
 ServerSignature Off
 
+# Support permalinks that contain neither a trailing slash nor a file extension
+Options +MultiViews
+
 # Redirects
 redirect 301 /feed/ http://hocuspokus.net/atom.xml
-

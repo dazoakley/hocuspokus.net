@@ -1,7 +1,6 @@
 ---
 layout: post
 title: American Style Pancakes
-permalink: /2007/11/american-style-pancakes
 tags:
 - other
 - recipe

@@ -44,8 +44,9 @@ end
 
 desc "Deploy..."
 task :deploy do
+  sh "bundle exec jekyll build"
   sh "cp .htaccess _site/"
-  sh "rsync -ave ssh --exclude=.DS_Store --exclude=*~ --exclude=stats --exclude=fever --delete _site/ admin@hocuspokus.net:/srv/hocuspokus.net/public/htdocs/"
+  sh "rsync -ave ssh --exclude=.DS_Store --exclude=*~ --exclude=stats --delete _site/ admin@hocuspokus.net:/srv/hocuspokus.net/public/htdocs/"
 end
 
 task :default => :start

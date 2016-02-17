@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Darwin Calendar Server
-permalink: /2007/11/darwin-calendar-server
 tags:
 - apple
 - calendar

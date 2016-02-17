@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Unix Toolbox
-permalink: /2008/03/unix-toolbox
 tags:
 - bsd
 - cheatsheet

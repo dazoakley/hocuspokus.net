@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CSS Gradient Text Effect
-permalink: /2008/01/css-gradient-text-effect
 tags:
 - css
 - html

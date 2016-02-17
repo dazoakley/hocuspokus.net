@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A First Look at Android
-permalink: /2007/11/a-first-look-at-android
 tags:
 - android
 - google

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to Fix Microsoft's Browser Issues
-permalink: /2008/02/how-to-fix-microsofts-browser-issues
 tags:
 - ie
 - microsoft

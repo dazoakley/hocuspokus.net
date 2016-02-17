@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Installing VMware Tools on Ubuntu Gutsy
-permalink: /2007/11/installing-vmware-tools-on-ubuntu-gutsy
 tags:
 - linux
 - mac

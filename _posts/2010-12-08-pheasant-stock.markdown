@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pheasant Stock
-permalink: /2010/12/pheasant-stock
 tags:
 - food
 - game
@@ -10,9 +9,9 @@ tags:
 - stock
 ---
 
-I made roast pheasant for the first time at the weekend (using 
-[this recipe](http://www.bbc.co.uk/food/recipes/roastpheasantwithlem_90249 "Roast Pheasant with Lemon and Rosemary - BBC Recipes") 
-- very nice!) so it meant that I ended up with the bones and carcasses from two pheasants. 
+I made roast pheasant for the first time at the weekend (using
+[this recipe](http://www.bbc.co.uk/food/recipes/roastpheasantwithlem_90249 "Roast Pheasant with Lemon and Rosemary - BBC Recipes")
+- very nice!) so it meant that I ended up with the bones and carcasses from two pheasants.
 It would have been rude not to try and make a stock from them!
 
 The following makes enough for about 4 servings.

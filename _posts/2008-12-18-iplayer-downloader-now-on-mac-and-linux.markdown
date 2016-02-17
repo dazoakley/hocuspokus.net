@@ -1,7 +1,6 @@
 ---
 layout: post
 title: iPlayer Downloader Now on Mac and Linux
-permalink: /2008/12/iplayer-downloader-now-on-mac-and-linux
 tags:
 - air
 - bbc

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Some Useful Catalyst Tips
-permalink: /2007/10/some-useful-catalyst-tips
 tags:
 - catalyst
 - perl

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Broken Arrow
-permalink: /2007/11/broken-arrow
 tags:
 - film
 ---

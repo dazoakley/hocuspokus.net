@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rocket-Powered X-Wing Model!
-permalink: /2007/10/rocket-powered-x-wing-model
 tags:
 - geek
 - star-wars

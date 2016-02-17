@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gmail Gets Auto-Replies
-permalink: /2008/10/gmail-gets-auto-replies
 tags:
 - gmail
 - google

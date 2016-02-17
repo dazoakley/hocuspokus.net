@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Log/Audit Tables In Oracle
-permalink: /2007/10/logaudit-tables-in-oracle
 tags:
 - oracle
 - sql

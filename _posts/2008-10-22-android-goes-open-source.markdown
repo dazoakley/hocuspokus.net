@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Android Goes Open Source
-permalink: /2008/10/android-goes-open-source
 tags:
 - android
 - google

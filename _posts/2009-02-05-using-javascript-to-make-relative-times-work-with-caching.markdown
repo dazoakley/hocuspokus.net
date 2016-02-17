@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Using Javascript to Make Relative Times Work with Caching
-permalink: /2009/02/using-javascript-to-make-relative-times-work-with-caching
 tags:
 - javascript
 linkblog: http://www.37signals.com/svn/posts/1557-javascript-makes-relative-times-compatible-with-caching

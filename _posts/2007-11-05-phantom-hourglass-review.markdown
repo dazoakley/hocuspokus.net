@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Phantom Hourglass Review
-permalink: /2007/11/phantom-hourglass-review
 tags:
 - ds
 - nintendo

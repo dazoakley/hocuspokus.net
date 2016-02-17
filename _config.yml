@@ -1,6 +1,6 @@
 markdown: rdiscount
 highlighter: rouge
 lsi: true
-permalink: /posts/:title
+permalink: /:year/:month/:title/
 rdiscount:
   extensions: [smart]

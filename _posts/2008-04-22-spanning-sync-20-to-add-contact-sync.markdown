@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Spanning Sync 2.0 to Add Contact Sync
-permalink: /2008/04/spanning-sync-20-to-add-contact-sync
 tags:
 - google
 - mac

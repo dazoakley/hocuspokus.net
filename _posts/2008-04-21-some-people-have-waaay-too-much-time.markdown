@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Some People Have Waaay Too Much Time...
-permalink: /2008/04/some-people-have-waaay-too-much-time
 tags:
 - geek
 linkblog: http://www.engadget.com/2008/04/21/rancilios-silvia-espresso-machine-gets-hacked-via-the-arduino-a/

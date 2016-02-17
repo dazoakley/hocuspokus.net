@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Creating New Accounts in PostgreSQL
-permalink: /2007/11/creating-new-accounts-in-postgresql
 tags:
 - linux
 - postgresql

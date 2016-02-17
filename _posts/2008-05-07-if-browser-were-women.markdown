@@ -1,7 +1,6 @@
 ---
 layout: post
 title: If Browsers Were Women...
-permalink: /2008/05/if-browser-were-women
 tags:
 - firefox
 - funny

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Blackbird - Javascript Logging Utility
-permalink: /2008/10/blackbird-javascript-logging-utility
 tags:
 - javascript
 linkblog: http://www.gscottolson.com/blackbirdjs/

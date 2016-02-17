@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ballmer in PCs Are Better Than Macs Shocker
-permalink: /2008/10/ballmer-in-pcs-are-better-than-macs-shocker
 tags:
 - mac
 - microsoft

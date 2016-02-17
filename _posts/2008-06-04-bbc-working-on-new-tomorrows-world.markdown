@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BBC working on New Tomorrow's World
-permalink: /2008/06/bbc-working-on-new-tomorrows-world
 tags:
 - bbc
 - tv

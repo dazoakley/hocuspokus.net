@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Macs Really Do Run Windows Better
-permalink: /2007/09/macs-really-do-run-windows-better
 tags:
 - apple
 linkblog: http://stevenf.com/2007/09/macs_really_do_run_windows_better.php

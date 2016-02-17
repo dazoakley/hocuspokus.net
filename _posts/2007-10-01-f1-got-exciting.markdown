@@ -1,7 +1,6 @@
 ---
 layout: post
 title: F1 Got Exciting!
-permalink: /2007/10/f1-got-exciting
 tags:
 - f1
 ---

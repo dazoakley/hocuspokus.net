@@ -1,7 +1,6 @@
 ---
 layout: post
 title: iPhone &pound;100 Cheaper? Yes Please!
-permalink: /2008/04/iphone-100-cheaper-yes-please
 tags:
 - apple
 - iphone

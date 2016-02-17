@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stephen Fry on the Eee PC
-permalink: /2008/02/stephen-fry-on-the-eee-pc
 tags:
 - eee
 - geek

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: eeeMac runs OS X on an eeePC
-permalink: /2008/09/eeemac-runs-os-x-on-an-eeepc
 tags:
 - apple
 - eee

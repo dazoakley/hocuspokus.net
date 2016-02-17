@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Remove Case-Sensitivity In Oracle
-permalink: /2007/10/remove-case-sensitivity-in-oracle
 tags:
 - oracle
 - perl

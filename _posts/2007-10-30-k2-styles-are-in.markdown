@@ -1,7 +1,6 @@
 ---
 layout: post
 title: K2 Styles Are In...
-permalink: /2007/10/k2-styles-are-in
 tags:
 - k2
 - wordpress

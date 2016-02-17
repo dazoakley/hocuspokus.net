@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Developing Rails Applications on Mac OS X Leopard
-permalink: /2008/03/developing-rails-applications-on-mac-os-x-leopard
 tags:
 - mac
 - os-x

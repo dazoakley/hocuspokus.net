@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NetNewsWire's Now Freeware
-permalink: /2008/01/netnewswires-now-freeware
 tags:
 - apple
 - geek

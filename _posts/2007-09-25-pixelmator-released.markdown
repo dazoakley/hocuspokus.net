@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pixelmator Released
-permalink: /2007/09/pixelmator-released
 tags:
 - os-x
 linkblog: http://pixelmator.com

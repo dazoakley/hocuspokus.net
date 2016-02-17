@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Creating Users on a Linux System
-permalink: /2010/01/creating-users-on-a-linux-system
 tags:
 - geek
 - linux

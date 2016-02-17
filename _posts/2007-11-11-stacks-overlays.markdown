@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stacks Overlays
-permalink: /2007/11/stacks-overlays
 tags:
 - apple
 - leopard
