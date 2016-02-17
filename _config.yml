@@ -1,7 +1,6 @@
 markdown: rdiscount
-pygments: true
+highlighter: rouge
 lsi: true
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
-
